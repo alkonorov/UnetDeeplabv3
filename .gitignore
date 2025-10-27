@@ -9,4 +9,4 @@ myapp/.ipynb_checkpoints/
 *env/
 emnist.zip
 /gzip
-/model/*
+model/*
